@@ -1,0 +1,16 @@
+Collisions
+
+
+From/Active Objects	From Mask	Into Mask
+
+Player Sphere		4		4 & 2
+Player Rocket		1		Zero
+Enemy Sphere		4		1 & 4
+Enemy Rocket		2		Zero
+Player/Enemy Ray	3		Zero
+
+
+Into/Passive Objects	From Mask	Into Mask
+
+Terrain			Zero		All except 1 & 4
+Wall			Zero		All

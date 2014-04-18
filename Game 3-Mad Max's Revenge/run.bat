@@ -1,0 +1,1 @@
+C:\Panda3D-1.5.3\python\python.exe -E game.py

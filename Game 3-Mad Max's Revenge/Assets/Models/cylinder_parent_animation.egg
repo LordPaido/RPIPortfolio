@@ -1,0 +1,32 @@
+<CoordinateSystem> { Y-Up }
+
+<Comment> {
+  "maya2egg2008 -a chan -o cylinder_parent_animation.egg cylinder_parent_animation.mb"
+}
+<Table> {
+  <Bundle> cylinder_parent_animation {
+    <Table> "<skeleton>" {
+      <Table> pCylinder1 {
+        <Xfm$Anim_S$> xform {
+          <Scalar> fps { 24 }
+          <Char*> order { srpht }
+          <S$Anim> i { <V> { 0.476314 } }
+          <S$Anim> j {
+            <V> {
+              0.476314 0.459965 0.443616 0.427267 0.410918 0.394569
+              0.37822 0.361871 0.345522 0.329173 0.312824 0.296475
+              0.280126 0.263777 0.247428 0.231079 0.21473 0.198382
+              0.182033 0.165684 0.149335 0.132986 0.116637 0.100288
+            }
+          }
+          <S$Anim> k { <V> { 0.476314 } }
+          <S$Anim> x { <V> { -0.749558 } }
+          <S$Anim> y { <V> { 0.612975 } }
+          <S$Anim> z { <V> { 0.0524032 } }
+        }
+      }
+    }
+    <Table> morph {
+    }
+  }
+}
