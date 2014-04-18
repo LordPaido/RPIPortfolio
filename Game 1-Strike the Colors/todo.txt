@@ -1,0 +1,25 @@
+fix large cannonball
+
+pie slices
+
+land generation 
+
+health bars
+
+fix floating point error
+
+sound
+
+[DONE] remove auto-move of ship
+
+spawning islands by wed
+sound by wed
+background moving wed
+more images!
+    island, treasure, boss, enemies
+
+boss battle
+weaken enemies
+faster ship
+
+
