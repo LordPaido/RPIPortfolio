@@ -1,4 +1,11 @@
 This folder contains a couple selected projects from my RPI courses.
 
 Game 1-Strike the Colors: This is the first computer game I worked on at RPI. Note that I actually was 
-Sound/Music/Design for this project. It runs on Python 2.7 w/ Pygame installed. 
+Sound/Music/Design for this project. It runs on Python 2.7 w/ Pygame installed. The game is easy enough, but pretty
+ok as far as a near-bullet-hell game goes.
+
+Game 3-Mad Max's Revenge. This was the third game I worked on at RPI. I was Sound Effects/Design/QA for this one.
+It works off Panda 3D; if you don't have the SDK installed, or if you're not on 1.8.1 (latest as of 4/2014, when I
+updated and tested everything to make sure it worked), you'll need to update the .bat file yourself. Sorry. Note
+also that the game was an intro to Panda3D; this was before RPI was willing to pay for Maya. Hence the very
+basic nature of the gameplay. It looks and sounds good, though.
