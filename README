@@ -1,1 +1,4 @@
 This folder contains a couple selected projects from my RPI courses.
+
+Game 1-Strike the Colors: This is the first computer game I worked on at RPI. Note that I actually was 
+Sound/Music/Design for this project. It runs on Python 2.7 w/ Pygame installed. 
